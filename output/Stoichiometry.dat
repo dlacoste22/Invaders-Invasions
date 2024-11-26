@@ -1,0 +1,638 @@
+INVASION NUMBER 1 
+ 
+The network does not show autocatalysis 
+ 
+Invaders matrix 
+-1 0 0
+0 0 1
+0 0 -1
+-1 1 1
+0 0 0
+1 -1 -1
+
+Whole matrix after invasion 
+-1 0 0
+0 0 1
+0 0 -1
+-1 1 1
+0 0 0
+1 -1 -1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 2 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+-1 0 0
+0 0 0
+0 0 0
+-1 1 0
+2 -1 -1
+0 0 1
+
+Whole matrix after invasion 
+-1 0 0
+0 0 0
+0 0 0
+-1 1 0
+2 -1 -1
+0 0 1
+
+Invaders grew and mixed with the community
+ 
+INVASION NUMBER 3 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 -1
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+-1 0 1
+1 -1 -1
+0 1 0
+
+Whole matrix after invasion 
+-1 0 0 0 0 0
+0 0 0 0 0 -1
+0 0 0 0 0 0
+-1 1 0 0 0 0
+2 -1 -1 0 0 0
+0 0 1 0 0 0
+0 0 0 -1 0 1
+0 0 0 1 -1 -1
+0 0 0 0 1 0
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 4 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 -1 0
+-1 0 1
+1 1 -1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+-1 1 0 0 0 0
+2 -1 -1 0 0 0
+0 0 1 0 0 0
+0 0 0 0 -1 0
+0 0 0 -1 0 1
+0 0 0 1 1 -1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 5 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+1 0 0
+0 0 0
+0 0 0
+0 0 0
+0 1 0
+0 1 -1
+1 0 1
+-1 -1 0
+
+Whole matrix after invasion 
+-1 0 0 0 0 0
+0 0 0 1 0 0
+0 0 0 0 0 0
+-1 1 0 0 0 0
+2 -1 -1 0 0 0
+0 0 1 0 1 0
+0 0 0 0 1 -1
+0 0 0 1 0 1
+0 0 0 -1 -1 0
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 6 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 1
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 1
+-1 -1 -1
+1 1 0
+
+Whole matrix after invasion 
+-1 0 0 0 0 0
+0 0 0 0 0 1
+0 0 0 0 0 0
+-1 1 0 0 0 0
+2 -1 -1 0 0 0
+0 0 1 0 0 0
+0 0 0 0 0 1
+0 0 0 -1 -1 -1
+0 0 0 1 1 0
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 7 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+1 0 0
+0 0 0
+0 0 1
+0 0 0
+0 0 0
+-1 0 0
+-1 -1 -1
+0 0 0
+1 1 1
+
+Whole matrix after invasion 
+-1 0 0 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 1
+-1 1 0 0 0 0
+2 -1 -1 0 0 0
+0 0 1 -1 0 0
+0 0 0 -1 -1 -1
+0 0 0 0 0 0
+0 0 0 1 1 1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 8 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 0
+0 -1 0
+0 0 0
+0 0 0
+0 0 0
+-1 -1 0
+1 1 1
+0 0 -1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 -1 0
+-1 1 0 0 0 0
+2 -1 -1 0 0 0
+0 0 1 0 0 0
+0 0 0 -1 -1 0
+0 0 0 1 1 1
+0 0 0 0 0 -1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 9 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 -1
+0 0 0
+0 0 0
+1 0 0
+0 0 0
+0 0 0
+1 -1 -1
+-1 1 0
+0 0 1
+
+Whole matrix after invasion 
+-1 0 0 0 0 -1
+0 0 0 0 0 0
+0 0 0 0 0 0
+-1 1 0 1 0 0
+2 -1 -1 0 0 0
+0 0 1 0 0 0
+0 0 0 1 -1 -1
+0 0 0 -1 1 0
+0 0 0 0 0 1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 10 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+1 -1 0
+0 0 -1
+0 0 0
+0 0 0
+-1 0 0
+-1 2 -1
+1 -1 2
+0 0 0
+
+Whole matrix after invasion 
+-1 0 0 0 0 0
+0 0 0 1 -1 0
+0 0 0 0 0 -1
+-1 1 0 0 0 0
+2 -1 -1 0 0 0
+0 0 1 -1 0 0
+0 0 0 -1 2 -1
+0 0 0 1 -1 2
+0 0 0 0 0 0
+
+Invaders grew and mixed with the community
+ 
+INVASION NUMBER 11 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+1 0 0
+0 0 0
+1 0 -1
+0 -1 0
+-1 1 1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 0 0
+0 0 0 1 -1 0 0 0 0
+0 0 0 0 0 -1 0 0 0
+-1 1 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0
+0 0 0 -1 2 -1 0 0 0
+0 0 0 1 -1 2 1 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 -1
+0 0 0 0 0 0 0 -1 0
+0 0 0 0 0 0 -1 1 1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 12 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+-1 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 1 0
+0 0 0
+0 0 0
+-1 0 -1
+1 1 1
+0 -1 0
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 -1 0 0
+0 0 0 1 -1 0 0 0 0
+0 0 0 0 0 -1 0 0 0
+-1 1 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0
+0 0 0 -1 2 -1 0 1 0
+0 0 0 1 -1 2 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 -1 0 -1
+0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 -1 0
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 13 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 1 0
+0 0 0
+0 0 1
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 -1 -1
+1 1 0
+-1 0 1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 0 0
+0 0 0 1 -1 0 0 1 0
+0 0 0 0 0 -1 0 0 0
+-1 1 0 0 0 0 0 0 1
+2 -1 -1 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0
+0 0 0 -1 2 -1 0 0 0
+0 0 0 1 -1 2 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 -1 -1
+0 0 0 0 0 0 1 1 0
+0 0 0 0 0 0 -1 0 1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 14 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+1 0 0
+0 1 0
+0 0 0
+0 0 0
+0 0 0
+1 -1 -1
+-1 0 1
+0 1 0
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 0 0
+0 0 0 1 -1 0 0 0 0
+0 0 0 0 0 -1 0 0 0
+-1 1 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 1 0 0
+0 0 1 -1 0 0 0 1 0
+0 0 0 -1 2 -1 0 0 0
+0 0 0 1 -1 2 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 -1 -1
+0 0 0 0 0 0 -1 0 1
+0 0 0 0 0 0 0 1 0
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 15 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 -1 1
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+1 -1 1
+0 0 0
+-1 2 -1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 -1 1
+0 0 0 1 -1 0 0 0 0
+0 0 0 0 0 -1 0 0 0
+-1 1 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0
+0 0 0 -1 2 -1 0 0 0
+0 0 0 1 -1 2 0 0 0
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 -1 1
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 -1 2 -1
+
+Invaders grew and mixed with the community
+ 
+INVASION NUMBER 16 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 0
+0 0 0
+0 0 1
+0 0 0
+0 1 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 1
+1 -1 0
+-1 1 -1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 -1 1 0 0 0
+0 0 0 1 -1 0 0 0 0 0 0 0
+0 0 0 0 0 -1 0 0 0 0 0 0
+-1 1 0 0 0 0 0 0 0 0 0 1
+2 -1 -1 0 0 0 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0 0 1 0
+0 0 0 -1 2 -1 0 0 0 0 0 0
+0 0 0 1 -1 2 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 -1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 -1 2 -1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 1 -1 0
+0 0 0 0 0 0 0 0 0 -1 1 -1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 17 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+-1 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 -1 0
+0 1 0
+0 0 1
+0 -1 0
+-1 0 -1
+1 1 1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 -1 1 0 0 0
+0 0 0 1 -1 0 0 0 0 -1 0 0
+0 0 0 0 0 -1 0 0 0 0 0 0
+-1 1 0 0 0 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0 0 0 0
+0 0 0 -1 2 -1 0 0 0 0 0 0
+0 0 0 1 -1 2 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 -1 1 0 -1 0
+0 0 0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 -1 2 -1 0 0 1
+0 0 0 0 0 0 0 0 0 0 -1 0
+0 0 0 0 0 0 0 0 0 -1 0 -1
+0 0 0 0 0 0 0 0 0 1 1 1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 18 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 -1 0
+0 0 0
+0 0 0
+0 0 0
+0 1 -1
+-1 -1 1
+1 0 0
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 -1 1 0 0 0
+0 0 0 1 -1 0 0 0 0 0 0 0
+0 0 0 0 0 -1 0 0 0 0 0 0
+-1 1 0 0 0 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0 0 0 0
+0 0 0 -1 2 -1 0 0 0 0 0 0
+0 0 0 1 -1 2 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 -1 0
+0 0 0 0 0 0 1 -1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 -1 2 -1 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 -1
+0 0 0 0 0 0 0 0 0 -1 -1 1
+0 0 0 0 0 0 0 0 0 1 0 0
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 19 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+1 0 0
+0 0 0
+0 0 -1
+0 0 0
+0 0 0
+0 0 0
+-1 -1 -1
+0 0 0
+1 1 1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 -1 1 0 0 0
+0 0 0 1 -1 0 0 0 0 0 0 0
+0 0 0 0 0 -1 0 0 0 0 0 0
+-1 1 0 0 0 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0 0 0 0
+0 0 0 -1 2 -1 0 0 0 1 0 0
+0 0 0 1 -1 2 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 -1
+0 0 0 0 0 0 1 -1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 -1 2 -1 0 0 0
+0 0 0 0 0 0 0 0 0 -1 -1 -1
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 1 1 1
+
+Invaders died and their matrix is discarded
+ 
+INVASION NUMBER 20 
+ 
+The network shows autocatalysis 
+ 
+Invaders matrix 
+1 0 0
+0 0 0
+0 1 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 -1
+0 0 0
+0 0 0
+0 0 1
+0 0 0
+0 0 0
+1 -1 -1
+-1 1 1
+
+Whole matrix after invasion 
+-1 0 0 0 0 0 0 -1 1 1 0 0
+0 0 0 1 -1 0 0 0 0 0 0 0
+0 0 0 0 0 -1 0 0 0 0 1 0
+-1 1 0 0 0 0 0 0 0 0 0 0
+2 -1 -1 0 0 0 0 0 0 0 0 0
+0 0 1 -1 0 0 0 0 0 0 0 0
+0 0 0 -1 2 -1 0 0 0 0 0 0
+0 0 0 1 -1 2 0 0 0 0 0 -1
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 -1 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 -1 2 -1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 1 -1 -1
+0 0 0 0 0 0 0 0 0 -1 1 1
+
+Invaders died and their matrix is discarded
+ 
